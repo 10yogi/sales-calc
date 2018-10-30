@@ -1,4 +1,6 @@
 
+exports.basic_sales_tax_rate = 10,exports.import_salse_tax_rate = 5;
+
 exports.exempted_from_tax = new Set();
 
 exports.exempted_from_tax.add("book");
